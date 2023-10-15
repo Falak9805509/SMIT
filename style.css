@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.first{
+    height: 400px;
+    box-sizing: border-box;
+    font-size: x-large;
+}
+.p1{
+    margin-top: 200px;
+    margin-left: 400px;
+    font-size: x-large;
+    
+}
+.p2
+{
+    margin-left: 400px;
+    margin-top: 10px;
+}
+
+
+.btn1{
+    color: white;
+    background-color: hwb(192 7% 20%);
+    margin-left: 400px;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-top: 3px;
+    padding-left: 3px;
+    padding-bottom: 3px;
+    padding-right: 5px;
+    width: 100px;
+    border: none;
+    display: block;
+    height: 30px;
+}
+.btn1:hover{
+
+    background-color: azure;
+    color: hwb(143 10% 23%);
+    
+}
+.img{
+    
+    width: 300px;
+    height: 550px;
+    display: block;
+    margin-left: 900px;
+    margin-top: -250px;
+    border: none;
+    border-color: white;
+    position: relative;
+    z-index: 1;
+    border-radius: 50px;
+    
+    
+}
+.second{
+    height: 600px;
+    width: 100%;
+    
+}
+.img2{
+    height: 500px;
+    width: 100%;
+    z-index: -1;
+    position: relative;
+    
+    
+    
+}
+.third{
+    height: 500px;
+}
+.head4{
+    margin-left: 45%;
+    margin-top: 150px;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+.pdiv{
+    
+    margin-top: 20px;
+    font-size: x-large;
+    font-family: sans-serif;
+    text-align: center;
+}
+.four{
+
+    height: 600px;
+}
+.parent {
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+  }
+  .child {
+    display: inline-block;
+    border: 3px dashed white;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    width: 400px;
+    height: 220px;
+    margin-left: 30px;
+    padding-top: 80px;
+    box-sizing: border-box;
+    color: white;
+   font-size: x-large;
+  
+
+  }
+
+.plast{
+    text-align: center;
+    padding-top: 150px;
+    color: bisque;
+    margin-left: 3px;
+    font-size: x-large;
+    
+
+}
+.plast1{
+
+margin-top: 20px;
+color: beige;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: large;
+}
+.btn2{
+    margin-left: 46%; 
+    margin-top: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 100px;
+    border-radius: 10px;
+    height: 30px;
+    border: none;
+    font-size: large;
+    font-weight: bold;
+
+}
+.btn2:hover{
+
+    color: chocolate;
+    background-color: aqua;
+    
+}
+.ch {
+    display: inline-block;
+
+    
+    
+
+    margin-left: 50px;
+    margin-top: 150px;
+    box-sizing: border-box;
+    color: white;
+   text-align: center;
+   padding-top: 30px;
+  
+
+  }
+
